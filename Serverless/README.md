@@ -12,7 +12,21 @@ AWS Lambda lets you run code without provisioning or managing servers. You pay o
 ## Simple serverless architecture
 ![See the route table](SimpleLambda.PNG)
 
-
+## Source Event Trigger
+- API Gateway
+- AWS IoT
+- Alexa Skills Kit
+- Alexa Smart Home
+- Application Load Balancer
+- CloudWatch Events
+- CloudWatch Logs
+- CodeCommit
+- Cognito Sync Trigger
+- DynamoDB
+- Kinesis
+- S3
+- SNS
+- SQS
 
 
 
