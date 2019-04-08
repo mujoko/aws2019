@@ -3,7 +3,7 @@
 ## AWS Onboard
 
 - I would recommend to start with Cloud Guru https://www.udemy.com/share/10009iBEYTcFZVQw==/
-- Continoe with https://www.aws.training/LearningLibrary
+- Continue with https://www.aws.training/LearningLibrary
 
 ## AWS Resources
 
